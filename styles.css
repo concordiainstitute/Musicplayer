@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#song{
+    padding: 5% 15%;
+    background:rgb(15, 15, 15);
+    
+}
+.cover{
+    width:5%;
+}
+.tar{
+    background:url("https://media1.tenor.com/images/33a46f727dbe790d436616a1f56fce9c/tenor.gif?itemid=7412752");
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: center;
+}
+.con{
+
+
+    width:100%;
+    padding:2%;
+    
+    border-radius:5px;
+    margin-top:2%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border:1px solid white;
+}
+h2{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:1.3rem;
+}
+
+h2:hover{
+    color:orangered;
+    cursor: pointer;
+}
